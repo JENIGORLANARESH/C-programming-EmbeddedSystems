@@ -15,5 +15,4 @@ This repository is created to:
 
 ---
 
-## 🗂️ Folder Structure
 
