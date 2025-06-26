@@ -1,11 +1,11 @@
-# C Programming – Embedded Systems 🖥️🔧
+# C Programming – Embedded Systems
 
 Welcome to the **C Programming – Embedded Systems** repository!  
 This repository contains **daily notes**, **code examples**, and **topic-wise explanations** related to the C programming language with a focus on **embedded systems**.
 
 ---
 
-## 📚 Purpose
+## Purpose
 
 This repository is created to:
 - Maintain **daily lecture notes**
