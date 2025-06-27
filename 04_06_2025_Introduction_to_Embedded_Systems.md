@@ -35,8 +35,15 @@ Devices that often use SoCs include:
 
 | Microcontroller (MC)                      | Microprocessor (MP)                     |
 |-------------------------------------------|-----------------------------------------|
-|    ******  **SPEED**  ***                 |                                         |
+
 |   -> Single Core                          |   -> Multi Core                         |
+
+|    ******  **SPEED**  ******              |                                         |
+| 1) 8051                                   | 1) Intel
+|   * 12 MHz                                |   * i3, i5, i7, i9                        |
+|   * Measures at cycles/sec                |   * Clock Speed : 1GHz to 5GHz            |
+|   * Designed by Intel in 1980             |   * Used in desktop, laptops, high end systems    |
+|   * Advanced version runs at 22MHz to 80MHz   |  
 | Generally cheaper                         | More expensive                          |
 | Low                                       | Higher                                  |
 | Washing machines, microwaves, remotes     | PCs, laptops, drones                    |
