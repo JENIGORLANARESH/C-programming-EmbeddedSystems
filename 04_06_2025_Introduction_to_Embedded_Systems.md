@@ -35,8 +35,8 @@ Devices that often use SoCs include:
 
 | Microcontroller (MC)                      | Microprocessor (MP)                     |
 |-------------------------------------------|-----------------------------------------|
-|                             <<**Speed**>>                 |                      |
-| Includes CPU, RAM, ROM, I/O ports, and timers all on one chip | Needs external RAM, ROM, I/O ports      |
+|    ******  **SPEED**  ***                 |                                         |
+|   -> Single Core                          |   -> Multi Core                         |
 | Generally cheaper                         | More expensive                          |
 | Low                                       | Higher                                  |
 | Washing machines, microwaves, remotes     | PCs, laptops, drones                    |
@@ -44,6 +44,3 @@ Devices that often use SoCs include:
 | Designed for dedicated tasks              | Suitable for multitasking and flexibility |
 
 
-git add .
-git commit -m "edit"
-git push origin main
