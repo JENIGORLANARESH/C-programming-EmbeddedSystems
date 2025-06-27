@@ -35,7 +35,7 @@ Devices that often use SoCs include:
 
 | Microcontroller (MC)                      | Microprocessor (MP)                     |
 |-------------------------------------------|-----------------------------------------|
-|*                                 **Speed** |                                         |
+| **                                 **Speed**                 |                      |
 | Includes CPU, RAM, ROM, I/O ports, and timers all on one chip | Needs external RAM, ROM, I/O ports      |
 | Generally cheaper                         | More expensive                          |
 | Low                                       | Higher                                  |
