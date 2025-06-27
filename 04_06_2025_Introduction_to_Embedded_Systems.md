@@ -35,9 +35,7 @@ Devices that often use SoCs include:
 
 | Microcontroller (MC)                      | Microprocessor (MP)                     |
 |-------------------------------------------|-----------------------------------------|
-
 |   -> Single Core                          |   -> Multi Core                         |
-
 |    ******  **SPEED**  ******              |                                         |
 | 1) 8051                                   | 1) Intel
 |   * 12 MHz                                |   * i3, i5, i7, i9                        |
