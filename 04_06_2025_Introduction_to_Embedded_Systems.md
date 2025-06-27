@@ -33,12 +33,12 @@ Devices that often use SoCs include:
 - Surveillance cameras
 
 
-| Feature                        | Microcontroller (MC)                      | Microprocessor (MP)                     |
-|-------------------------------|-------------------------------------------|-----------------------------------------|
-| Definition                    | A compact integrated circuit designed to perform a specific task | A general-purpose CPU used for computation |
-| Components                    | Includes CPU, RAM, ROM, I/O ports, and timers all on one chip | Needs external RAM, ROM, I/O ports      |
-| Cost                          | Generally cheaper                         | More expensive                          |
-| Power Consumption             | Low                                       | Higher                                  |
-| Applications                  | Washing machines, microwaves, remotes     | PCs, laptops, drones                    |
-| Speed                         | Slower compared to MP                     | Faster for general processing           |
-| Flexibility                   | Designed for dedicated tasks              | Suitable for multitasking and flexibility |
+| Microcontroller (MC)                      | Microprocessor (MP)                     |
+|-------------------------------------------|-----------------------------------------|
+|                                    **Speed**                                        |
+| Includes CPU, RAM, ROM, I/O ports, and timers all on one chip | Needs external RAM, ROM, I/O ports      |
+| Generally cheaper                         | More expensive                          |
+| Low                                       | Higher                                  |
+| Washing machines, microwaves, remotes     | PCs, laptops, drones                    |
+| Slower compared to MP                     | Faster for general processing           |
+| Designed for dedicated tasks              | Suitable for multitasking and flexibility |
