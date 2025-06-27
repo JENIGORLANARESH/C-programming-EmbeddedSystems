@@ -8,10 +8,10 @@ They are made up of:
 * **Firmware**: The permanent software that is stored in the system's memory.
 
 ## Microcontroller:
-        * Washing Machine
-        * Microoven
-        * Ac
-        * TV Remote
+        - Washing Machine
+        - Microoven
+        - Ac
+        - TV Remote
 
 ## Microprocessor:
         * PC's
