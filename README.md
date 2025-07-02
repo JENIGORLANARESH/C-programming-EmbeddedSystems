@@ -10,8 +10,6 @@ This repository contains **daily notes**, **code examples**, and **topic-wise ex
 This repository is created to:
 - Maintain **daily lecture notes**
 - Organize content **topic-wise and date-wise**
-- Help students and self-learners follow structured C programming concepts
-- Prepare a strong foundation for **embedded systems development**
 
 ---
 
