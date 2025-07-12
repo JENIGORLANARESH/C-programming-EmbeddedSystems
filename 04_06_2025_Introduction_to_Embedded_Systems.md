@@ -38,10 +38,21 @@ Devices that often use SoCs include:
 |   -> Single Core                          |   -> Multi Core                         |
 |    ******  **SPEED**  ******              |                                         |
 | 1) **8051**                               | 1) **Intel**
-|    12 MHz                                |    i3, i5, i7, i9                        |
-|    Measures at cycles/sec                |    Clock Speed : 1GHz to 5GHz            |
-|    Designed by Intel in 1980             |    Used in desktop, laptops, high end systems    |
-|    Advanced version runs at 22MHz to 80MHz   |                                        |
-| 2) **
+|    > 12 MHz                                |    i3, i5, i7, i9                        |
+|    > Measures at cycles/sec                |    Clock Speed : 1GHz to 5GHz            |
+|    > Designed by Intel in 1980             |    Used in desktop, laptops, high end systems    |
+|    > Advanced version runs at 22MHz to 80MHz   |  1GHz = 1024MHz                    |
+| 2) **ATmega2560**                           |   2) **Intel SBC's (Single Board Computers)**  |
+|    > It is a microcontroller made by Atmel in 1998  |    > Used in defence, Aerospace, Medtech  |
+|    > *Arduino* is a HW & SW platform that uses the ATmega2560  |
+|    > It runs at 16MHz                       |
+| 3) **ARM7**                                  |  
+|    > Runs at 12MHz
+|    > Adv version run at 88MHz
+|    > Developed by Armholdings in 1990
+|    > Most of the microcontroller runs below 100MHz
+|
+|
+
 
 
