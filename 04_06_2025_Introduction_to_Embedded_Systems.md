@@ -52,7 +52,5 @@ Devices that often use SoCs include:
 |    > Developed by Armholdings in 1990
 |    > Most of the microcontroller runs below 100MHz
 |
-|
-
 
 
