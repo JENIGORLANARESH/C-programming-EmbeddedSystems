@@ -7,10 +7,12 @@ int a = 8, b = 7, c = 9, d = a + b + c;
 * General expressions are evaluated from left to right.
 
 ```
+/*
 int i , j = 0;
 i = j, j + i;
 printf("%d %d", i,   j);
-//              10   10
+                10   10
+*/
 ```
 
 * (  )  paranthesis changes the order of evaluation.
@@ -20,9 +22,9 @@ printf("%d %d", i,   j);
 
 ```
 //  L  ------>  R
-i = ( j   ,  j + 1 );       
-11    10       11           
-//^______________|
+      i = ( j   ,  j + 1 );       
+      11    10       11           
+//    ^______________|
 ```
 
 ```
