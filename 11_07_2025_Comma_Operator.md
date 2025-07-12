@@ -8,10 +8,12 @@ int a = 8, b = 7, c = 9, d = a + b + c;
 
 ```
 /*
+
 int i , j = 0;
 i = j, j + i;
 printf("%d %d", i,   j);
                 10   10
+
 */
 ```
 
@@ -21,7 +23,8 @@ printf("%d %d", i,   j);
 * The statements inside the paranthesis are evaluated first.
 
 ```
-//  L  ------>  R
+//    Left  ------>  Right
+
       i = ( j   ,  j + 1 );       
       11    10       11           
 //    ^______________|
