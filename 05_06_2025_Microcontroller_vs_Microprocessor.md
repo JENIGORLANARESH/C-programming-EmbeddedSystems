@@ -37,6 +37,9 @@
 
 ---
 
+![WhatsApp Image 2025-07-12 at 17 49 27_e4b59800](https://github.com/user-attachments/assets/ffb8bc06-118c-4bc3-bd9d-203aa83e126b)
+
+
 # Block Diagram of Microprocessor
 - *CPU (High Speed ~1 GHz to 3.6 GHz)*
   - ALU (Arithmetic Logic Unit)
