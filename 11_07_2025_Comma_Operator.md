@@ -6,24 +6,29 @@ int a = 8, b = 7, c = 9, d = a + b + c;
 
 * General expressions are evaluated from left to right.
 
+```
 int i , j = 0;
 i = j, j + i;
 printf("%d %d", i,   j);
-                10   10
+//              10   10
+```
 
 * (  )  paranthesis changes the order of evaluation.
 
 * Right most expression get assigned to i.
 * The statements inside the paranthesis are evaluated first.
 
-    L  ------>  R
+```
+//  L  ------>  R
 i = ( j   ,  j + 1 );       
 11    10       11           
-  ^______________|
+//^______________|
+```
 
-
+```
 i  =  (  j + 1 ,  j  );
-^_________________|
+//^_________________|
+```
 
 *    
 int a , b, c, sum;
