@@ -82,3 +82,38 @@ printf("%d %d", i,   j);
 //    ^      8   ^   7   ^    8
 //    |______|   |___|   |____|
 ```
+
+# Conditional Operator or Ternery Operator
+
+## Syntax
+      text expression  ?  exp1  :  exp2 ;
+            T--------------|        |
+            F-----------------------|
+
+* Example : 
+
+```
+      int a = 10, b = 5, c;
+      a > b ? c = a : c = b;
+
+//     T--------^                 c = 10
+```
+
+* Example :
+
+```
+      int a = 15, b = 30, c;
+      a > b ? c = a : c = b;
+
+//      F---------------^          c = 30
+```
+
+* Example : 
+
+```
+      int a = 15, b = 30, c ;
+      c  =  a > b ? a : b ;
+
+//    |       F_________30    whole expression becomes 30
+//    |____________|          and assigned to c
+```
