@@ -82,6 +82,7 @@ printf("%d %d", i,   j);
 //    ^      8   ^   7   ^    8
 //    |______|   |___|   |____|
 ```
+<<<<<<< HEAD:11_07_2025_Comma_Operator.md
 
 # Conditional Operator or Ternery Operator
 
@@ -117,3 +118,5 @@ printf("%d %d", i,   j);
 //    |       F_________30    whole expression becomes 30
 //    |____________|          and assigned to c
 ```
+=======
+>>>>>>> 380961f6708342058ab8ea73fd3c4c0c52a23991:11_07_2025_Comma_&_Conditional_Operator.md
