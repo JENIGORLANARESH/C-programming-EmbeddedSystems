@@ -84,7 +84,7 @@ printf("%d %d", i,   j);
 ```
 <<<<<<< HEAD:11_07_2025_Comma_Operator.md
 
-# Conditional Operator or Ternery Operator
+# Conditional Operator or Ternary Operator
 
 ## Syntax
       text expression  ?  exp1  :  exp2 ;
