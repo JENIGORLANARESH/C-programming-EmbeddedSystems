@@ -53,9 +53,9 @@
 
 
 
-# Basic Units of Memory
+### Basic Units of Memory
 
-## Bits and Bytes
+### Bits and Bytes
 - Each bit → 0 or 1
 - 8 bits → 1 Byte
 - 16 bits → 2 Bytes
@@ -76,8 +76,8 @@
 | *Compile-Time* | Errors while writing code (syntax, etc.)   | *Compiler*    |
 | *Run-Time*     | Errors during program execution            | *Debugger*    |
 
-- ✔ *Compiler* helps find and resolve *compile-time errors*.
-- ✔ *Debugger* is used to find *run-time errors*.
+-  *Compiler* helps find and resolve *compile-time errors*.
+-  *Debugger* is used to find *run-time errors*.
 
 ---
 
