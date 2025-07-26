@@ -5,7 +5,7 @@
 
 ####    &   Bitwise AND
 ####    |   Bitwise OR
-####    ~   Bitwise NOT / NEGATION / 1's Complement
+####    ~   Bitwise NOT / Negation / 1's Complement
 ####    <<  Left Shift
 ####    >>  Right Shift
 ####    ^   Bitwise XOR
