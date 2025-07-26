@@ -38,11 +38,11 @@
 
 ## Instructions Structure
 
-- Instructions are made of:
-  - *Opcodes:* Operational codes (e.g., ADD-78, SUB-70)
-  - *Operands:* Address of memory locations in RAM
+* Instructions are made of:
+#### Opcodes: Operational codes (e.g., ADD-78, SUB-70)
+#### Operands: Address of memory locations in RAM
 
-### 👉 Opcode:
+###  Opcode:
 - A *unique code* that specifies the operation to be performed.
 
 ---
