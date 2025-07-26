@@ -14,20 +14,22 @@
 
 ## Program Development Process
 
-1. *Writing Code:*
+1. Writing Code:
    - C programs are written using *text editor tools*.
 
-2. *Compilation:*
+2. Compilation:
    - *C statements ➝ Instructions*
    - Hardware is capable of processing and executing *instructions only*.
 
-3. *Translation Process:*
+3. Translation Process:
    - C statements ➝ *Assembly code* ➝ Machine instructions
    - Converts high-level language (human understandable) into low-level machine language (machine understandable).
 
 ---
 
 ## Language Translation Flow
+
+* C - statements  -> Assembly code  -> Instructions.
 
 - *High-Level Language* ➝ *Low-Level Language*
 - *Human understandable language* ➝ *Machine understandable language*
