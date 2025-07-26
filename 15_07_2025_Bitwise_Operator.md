@@ -22,3 +22,5 @@
     a << 1 → 10  // 1010
     a >> 1 → 2   // 0010
 ```
+
+<img width="300" height="197" alt="image" src="https://github.com/user-attachments/assets/8b68971f-33be-484a-b871-914168a2c100" />
