@@ -131,3 +131,36 @@
 - Commands are used to run applications or tools.
 - Terminal helps edit, compile, debug, and load code efficiently.
 
+### printf()
+* C standard input/output library function
+
+### ls command
+* To list files in a directory
+* White  -  normal files
+* Blue   -  Directories/folders
+* Green  -  Executable files
+
+### Assembly code files
+*  .s extension
+
+## File Permissions (file info)
+
+1) File permissions (read / write / execute)
+2) Username / Group name
+3) Size of file
+4) Date of creation (time startup)
+5) Name of the file
+
+## Flags/Options
+   -  additional information is called flags or options
+1) -a
+2) -l
+3) -p
+
+* Example : $ls -l
+
+## What are all the flags and options I can use along ls ? 
+Ans: Documentaion for ls command / manual paper / help
+      $man ls     ->    gives ducumentations
+      $ls --help  
+      
