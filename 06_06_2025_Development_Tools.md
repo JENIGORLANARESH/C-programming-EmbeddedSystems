@@ -161,5 +161,5 @@
 
 ## What are all the flags and options I can use along ls ? 
 Ans: Documentaion for ls command / manual paper / help   <br>
-      $man ls     ->    gives ducumentations
+      $man ls     ->    gives ducumentations <br>
       $ls --help  
