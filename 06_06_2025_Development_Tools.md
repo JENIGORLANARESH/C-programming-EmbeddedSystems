@@ -160,7 +160,6 @@
 * Example : $ls -l
 
 ## What are all the flags and options I can use along ls ? 
-Ans: Documentaion for ls command / manual paper / help
+Ans: Documentaion for ls command / manual paper / help   <\br>
       $man ls     ->    gives ducumentations
       $ls --help  
-      
