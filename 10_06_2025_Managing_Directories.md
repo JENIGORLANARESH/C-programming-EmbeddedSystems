@@ -45,7 +45,7 @@
     -   -d -> flags/options
 
 2)  Non-Empty Directory
-    -   $rmdir cannot be used to remove non-empty directory
-    -   $rm -d dir_name     -> Won't work
+    -   $rmdir              ->  cannot be used to remove non-empty directory
+    -   $rm -d dir_name     ->  Won't work
     -   $rm -r dir_name
         -   recursively go to every sub directory and remove files.
