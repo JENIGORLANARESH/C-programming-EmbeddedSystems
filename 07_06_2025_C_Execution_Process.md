@@ -4,10 +4,10 @@
 
 ## Compilation
 
-            compiler(gcc)               <br>
-    C-Statements    ->  Instructions    
+            compiler(gcc)
+    C-Statements -----> Instructions    
         |                   |
-    sample.c----------> executable file
+    sample.c  ------->  executable file
                             |
                             a.out
                         (assembly output)
