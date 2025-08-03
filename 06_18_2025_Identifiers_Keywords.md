@@ -129,7 +129,7 @@
 
 #### int val; -> 4 Bytes
 
-<img width="668" height="227" alt="image" src="https://github.com/user-attachments/assets/414d1825-6721-4259-8945-3657b8d07e51" />
+<img width="668" height="327" alt="image" src="https://github.com/user-attachments/assets/414d1825-6721-4259-8945-3657b8d07e51" />
 
 #### long lval; -> 8 Bytes
 
@@ -148,7 +148,7 @@
 - long
 - double
 
-<img width="608" height="387" alt="Data_catogories" src="https://github.com/user-attachments/assets/ea332d46-d06c-4f4e-a0a2-506bd531183b" />
+<img width="808" height="487" alt="Data_catogories" src="https://github.com/user-attachments/assets/ea332d46-d06c-4f4e-a0a2-506bd531183b" />
 
 ```
         char ch = 'A';    //correct
