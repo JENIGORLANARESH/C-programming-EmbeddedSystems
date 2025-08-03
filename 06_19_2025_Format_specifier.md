@@ -78,6 +78,10 @@ Format specifiers, also known as format codes or format strings, are placeholder
         printf( "%d" , ch );    //output : 48 (ascii value)
 ```
 
+
+<img width="684" height="253" alt="char_0" src="https://github.com/user-attachments/assets/63360b48-65ed-44b0-81e1-0649f2d6a19e" />
+
+
 ## ASCII values of Numerics
 
 * Numerics are 48 to 57
@@ -92,4 +96,3 @@ Format specifiers, also known as format codes or format strings, are placeholder
     - 8 -> 56
     - 9 -> 57
 
-    
