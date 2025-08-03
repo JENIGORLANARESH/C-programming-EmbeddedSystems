@@ -123,13 +123,13 @@
 
 #### char ch; -> 1 Byte
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fdotnettutorials.net%2Flesson%2Fcharacter-data-types-in-c%2F&psig=AOvVaw11Xk-P3V8JzWDXA3W_KhDK&ust=1754154955915000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjb8s2O6o4DFQAAAAAdAAAAABAE
+<img width="665" height="150" alt="image" src="https://github.com/user-attachments/assets/4e41842f-6214-40b3-8e2a-bd2daea49265" />
 
 #### short sval; -> 2 Bytes
 
 #### int val; -> 4 Bytes
 
-https://techskillguru.com/cdata/cprogramming/images/var.png
+<img width="668" height="227" alt="image" src="https://github.com/user-attachments/assets/414d1825-6721-4259-8945-3657b8d07e51" />
 
 #### long lval; -> 8 Bytes
 
@@ -148,8 +148,11 @@ https://techskillguru.com/cdata/cprogramming/images/var.png
 - long
 - double
 
+<img width="608" height="387" alt="Data_catogories" src="https://github.com/user-attachments/assets/ea332d46-d06c-4f4e-a0a2-506bd531183b" />
 
 ```
         char ch = 'A';    //correct
         char ch = A;
 ```
+
+<img width="635" height="309" alt="char_A" src="https://github.com/user-attachments/assets/d4ef3a9b-0d49-4b0c-8d07-fc1ff1f5dbf8" />
