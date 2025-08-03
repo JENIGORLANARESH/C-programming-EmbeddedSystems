@@ -147,3 +147,9 @@ https://techskillguru.com/cdata/cprogramming/images/var.png
 
 - long
 - double
+
+
+```
+        char ch = 'A';    //correct
+        char ch = A;
+```
