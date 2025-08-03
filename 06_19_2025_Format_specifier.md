@@ -70,6 +70,10 @@ Format specifiers, also known as format codes or format strings, are placeholder
         printf( "%d" , ch );    // output : 0 (ascii value)
 ```
 
+
+<img width="686" height="519" alt="ascii_zero" src="https://github.com/user-attachments/assets/6e40e15a-ee18-4c80-b701-695eaa9f2ae5" />
+
+
 ### Example : 
 
 ```
